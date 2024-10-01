@@ -49,6 +49,9 @@ The target variable of this dataset is `price range`.
 ## 📝 Grade for this Assignment
 High Distinction Grade
 
+## Note
+This project is a part of Macquarie University Computing assignment and the dataset was provided by the unit convenor.
+
 
 
 
